@@ -6,5 +6,5 @@ BASE_HOA = {
 
 
 def add_character(show, name)
-  show[name] << "Snarf"
+  :third_earthers << "Snarf"
 end
